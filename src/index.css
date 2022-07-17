@@ -1,1 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
 
+* {
+  color: white;
+}
+body {
+  background-image: url("./Assets/gym-fitness-crossfit.jpeg")
+}

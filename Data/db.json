@@ -1,0 +1,32 @@
+ {
+    "workouts": [
+        { 
+            "id": "legs",
+            "exercises": ["Barbell Back Squats", "Barbell Good Mornings", "Leg Press", "Leg Curls"],
+            "sets": 4,
+            "reps": 12
+        },
+        { "id": "push",
+            "exercises": ["Bench Press", "Tricep Dips", "Dumbbell Lateral Raises", "Standing Cable Crossovers"],
+            "sets": 5,
+            "reps": 12
+        }, 
+        {   "id": "pull",
+            "exercises": ["Deadlift", "Chin Ups Chest", "Supported Rows", "Barbell Curls"],
+            "sets": 4,
+            "reps": 12
+        },
+        { 
+            "id":"core",
+            "exercises": ["Forearm Plank", "Russian Twist", "Butterfly Sit-Up","Dead Bug"],
+            "sets": 4,
+            "reps": 15
+        },
+        { 
+            "id":"cardio",
+            "exercises": ["Jump Rope", "Jumping Jacks", "Burpees", "Running"],
+            "sets": 4,
+            "reps": "30 min"
+        }
+    ]
+}
